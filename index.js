@@ -4,7 +4,7 @@ const express = require('express'); //POST
 //const axios = require('axios'); //GET
 const Tesseract = require('tesseract.js'); //OCR
 const app = express();
-const PORT = 9999;
+const PORT = 80;
 
 const fetch = require('node-fetch');//POST  //GET
 
